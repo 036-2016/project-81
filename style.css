@@ -1,0 +1,21 @@
+h1
+{
+color: aqua;
+font-size: 60px;
+font-style: italic;
+}
+
+.background
+{
+    background-image: url("olmpics.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas
+{
+    border-width: 20px;
+    background-color: white;
+    border-style: groove;
+    
+}
